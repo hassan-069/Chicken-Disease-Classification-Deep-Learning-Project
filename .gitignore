@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 artifacts/*
+# Data files & Large files
+*.zip
+*.rar
+*.h5
+research/chicken-disease-images-data.zip
 # C extensions
 *.so
 
